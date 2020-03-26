@@ -37,8 +37,8 @@ A system that creates a blockchain record representing media data that can be us
 - Call HASH mapping that will bring the struct with all information of the media
 - Register a HASH – 1º create a hash from media
 			2º check if exist other equal hash
-			3º Store the hash and owner, as well all others information
-- Transfer Ownership – Only owner (or delegated users) of contract can change the owner
+			3º Store the hash and owner, as well all others information.
+- Transfer Ownership – Only owner (or delegated users) of contract can change the owner.
 
  ![alt text](https://raw.githubusercontent.com/mathaip/Media-Time-Stamp-React/master/public/mediatime.png)
 
